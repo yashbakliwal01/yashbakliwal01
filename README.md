@@ -2,16 +2,16 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 6px;">
 
+<a href="https://my-portfolio-flame-xi-16.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-8A2BE2.svg?style=for-the-badge&logoColor=white"/>
+</a>
+
 <a href="mailto:yashbakliwal01@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D44638.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/yash-bakliwal-1008" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://my-portfolio-flame-xi-16.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-24292F.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <!-- <a href="https://github.com/yashbakliwal01" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-24292F.svg?style=for-the-badge&logo=github&logoColor=white"/>
