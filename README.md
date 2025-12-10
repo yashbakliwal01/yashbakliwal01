@@ -1,4 +1,28 @@
 # Hi there, I'm Yash! 👋  
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+<a href="mailto:yashbakliwal01@gmail.com" target="_blank" style="text-decoration: none;">
+<div style="display: flex; align-items: center; background: #D44638; color: white; padding: 8px 14px; border-radius: 8px; font-weight: bold;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" style="margin-right: 8px;" />
+  Gmail
+</div>
+</a>
+
+<a href="https://www.linkedin.com/in/yash-bakliwal-1008" target="_blank" style="text-decoration: none;">
+<div style="display: flex; align-items: center; background: #0A66C2; color: white; padding: 8px 14px; border-radius: 8px; font-weight: bold;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="margin-right: 8px;" />
+  LinkedIn
+</div>
+</a>
+
+<a href="https://github.com/yashbakliwal01" target="_blank" style="text-decoration: none;">
+<div style="display: flex; align-items: center; background: #24292F; color: white; padding: 8px 14px; border-radius: 8px; font-weight: bold;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" style="margin-right: 8px;" />
+  Portfolio
+</div>
+</a>
+
+</div>
 
 **✨ I am a passionate Java developer ✨**
 
