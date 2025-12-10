@@ -26,7 +26,7 @@ I'm a Java Backend Developer with experience building scalable backend systems, 
 ---
 
 ## 🔗 Connect with Me
-**GitHub:** github.com/yashbakliwal01
+**GitHub:** github.com/yashbakliwal01  
 **LinkedIn:** linkedin.com/in/yash-bakliwal-1008  
 **Email:** yashbakliwal01@gmail.com  
 
