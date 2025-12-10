@@ -1,14 +1,20 @@
 # Hi there, I'm Yash! 👋  
-Java Backend Developer from India 🇮🇳
+### Java Backend Developer from India 🇮🇳
 
-Welcome to my GitHub!  
-Hope you're having a productive and amazing day 🚀
+**✨ I am a passionate FullStack Web developer from India 🇮🇳 ✨**
+
+Welcome to my GitHub space —  
+where I build backend systems, explore scalable architectures,  
+and keep learning something new every day 🚀  
 
 ---
 
-### 🔭 I’m currently:
-Brushing up my **Data Structures & Algorithms**,  
-and improving my **System Design** and **Spring Boot** skills.
+### 🔭 What I'm Currently Learning
+
+- 📚 Brushing up my **Data Structures & Algorithms**  
+- 🏗️ Improving my **System Design** fundamentals  
+- 🌱 Enhancing my **Spring Boot** backend development skills  
+
 
 ## 🛠️ Languages & Tools  
 
