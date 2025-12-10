@@ -1,8 +1,14 @@
-# Hi, I'm Yash Bakliwal 👋  
-### Java Backend Developer | 3+ Years Experience
+# Hi there, I'm Yash! 👋  
+Java Backend Developer from India 🇮🇳
 
-I'm a Java Backend Developer with experience building scalable backend systems, microservices, and REST APIs using **Java, Spring Boot, JPA, Hibernate**, and **MySQL**. Strong in **DSA, OOP, Multithreading, and Design Patterns**, with hands-on experience delivering high-performance solutions for enterprise projects at Infosys.
+Welcome to my GitHub!  
+Hope you're having a productive and amazing day 🚀
+
 ---
+
+### 🔭 I’m currently:
+Brushing up my **Data Structures & Algorithms**,  
+and improving my **System Design** and **Spring Boot** skills.
 
 ## 🛠️ Languages & Tools  
 
