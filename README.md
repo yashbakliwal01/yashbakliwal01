@@ -1,42 +1,47 @@
-# Hi there 👋, I’m Yash Bakliwal
+# Hi, I'm Yash Bakliwal 👋  
+### Java Backend Developer | 3+ Years Experience
 
-## 🧑‍💻 About Me  
-- 🔭 I’m currently working on: **[Your current project or focus]**  
-- 🌱 I’m currently learning: **[Technologies / tools you are learning]**  
-- 👯 I’m looking to collaborate on: **[Open-source / team projects / interests]**  
-- 💬 Ask me about: **[Your skills / areas of expertise]**  
-- 📫 How to reach me: **[email / social-link / whatever contact you prefer]**  
-- ⚡ Fun fact: **[Something interesting about you]**  
+I'm a Java Backend Developer with experience building scalable backend systems, microservices, and REST APIs using **Java, Spring Boot, JPA, Hibernate**, and **MySQL**. Strong in **DSA, OOP, Multithreading, and Design Patterns**, with hands-on experience delivering high-performance solutions for enterprise projects at Infosys.
 
 ---
 
-## 🛠️ Skills & Tools  
-
-| Frontend | Backend | Database | Others |
-|---------|---------|----------|--------|
-| HTML, CSS, JavaScript, React | Node.js, Express | MySQL, MongoDB | Git, GitHub, Linux, Docker |
-
-*(Modify the above as appropriate — add/remove tools as per your skillset.)*
-
----
-
-## 🔗 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)  
-[![Twitter](https://img.shields.io/badge/Twitter-@your_twitter-handle?style=flat&logo=twitter)](YOUR_TWITTER_URL)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-yourwebsite.com-green?style=flat&logo=internet)](YOUR_PORTFOLIO_URL)
+## 🛠️ Tech Stack
+- **Languages:** Java  
+- **Backend:** Spring Boot, REST APIs, Spring Data JPA, Hibernate, Microservices, JUnit  
+- **Databases:** MySQL, Oracle  
+- **Core Concepts:** OOPs, Multithreading, DSA, Design Patterns  
+- **Tools:** Eclipse, STS, Postman, Maven, Jenkins, Git  
 
 ---
 
-## 📈 GitHub Stats  
+## 💼 Experience
+**Senior Systems Engineer — Infosys (2024–Present)**  
+- Built and maintained Java-based INMS applications to improve alarm management and network monitoring.  
+- Developed Oracle stored procedures integrated with Java action rules to automate alarm retrieval.  
+- Collaborated with onshore & UAT teams; improved system performance through automation.  
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yashbakliwal01&show_icons=true&theme=radical)  
+**Systems Engineer — Infosys (2022–2024)**  
+- Developed scalable REST APIs using Java, Spring Boot & Multithreading, improving performance by **20%**.  
+- Optimized MySQL queries & performed end-to-end performance testing.  
+- Achieved **80%+ unit test coverage** using JUnit & Mockito.  
 
 ---
 
-## 🏆 What I’m Proud Of / My Projects  
+## 🚀 Projects
+- **Instagram LLD (Java, Multithreading, OOPs)** — Implemented features like posts, reels, likes, comments with thread-safe operations.  
+- **PayPal Payment System (Spring Boot, JPA, MySQL)** — Built secure payment flows, wallet management, refund handling, and Strategy Pattern for payment modes.
 
-- **Project-A** — Short description (what it does)  
-- **Project-B** — Short description  
+---
 
-> “Code is like humor. When you have to explain it, it’s bad.” 😊  
+## 📜 Certifications
+Java SE8 • Spring Boot • SQL • Design Patterns • HackerRank Java & SQL
+
+---
+
+## 🔗 Connect with Me
+**GitHub:** github.com/yashbakliwal01  
+**LinkedIn:** linkedin.com/in/yash-bakliwal-1008  
+**Email:** yashbakliwal01@gmail.com  
+**Location:** Pune, Maharashtra  
+
+---
