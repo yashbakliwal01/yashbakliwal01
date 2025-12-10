@@ -1,7 +1,6 @@
 # Hi there, I'm Yash! 👋  
-### Java Backend Developer from India 🇮🇳
 
-**✨ I am a passionate FullStack Web developer from India 🇮🇳 ✨**
+**✨ I am a passionate Java developer ✨**
 
 Welcome to my GitHub space —  
 where I build backend systems, explore scalable architectures,  
