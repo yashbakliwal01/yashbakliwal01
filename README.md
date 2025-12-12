@@ -19,11 +19,10 @@
 
 </div>
 
-**✨ I am a passionate Java developer ✨**
+**✨ I am a passionate Java Developer ✨**
 
-Welcome to my GitHub space —  
-where I build backend systems, explore scalable architectures,  
-and keep learning something new every day 🚀  
+Welcome to my GitHub space —    
+Eat. Sleep. Java. Optimize. Repeat 🔁
 
 ---
 
