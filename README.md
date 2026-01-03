@@ -53,4 +53,5 @@ Eat. Sleep. Java. Optimize. Repeat 🔁
 <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 <img src="https://img.shields.io/badge/STS-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 </div>
