@@ -28,7 +28,7 @@ Eat. Sleep. Java. Optimize. Repeat 🔁
 
 ### 🔭 What I'm Currently Learning
 
-- 📚 Brushing up my **Data Structures & Algorithms**  
+- 📚 Learning **Data Structures & Algorithms**  
 - 🏗️ Improving my **System Design** fundamentals  
 - 🌱 Enhancing my **Spring Boot** backend development skills  
 
