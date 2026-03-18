@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 6px;">
 
-<a href="https://my-portfolio-flame-xi-16.vercel.app/" target="_blank">
+<a href="https://yashbakliwal-portfolio.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-8A2BE2.svg?style=for-the-badge&logoColor=white"/>
 </a>
 
