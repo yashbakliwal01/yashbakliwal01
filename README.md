@@ -5,13 +5,16 @@
 </div>
 
 <br>
-```java
-// I build backend systems with Java & Spring Boot — clean code, solid APIs, real databases.
-// Learning DSA and system design to write code that scales, not just code that runs.
+
+<div style="background: linear-gradient(90deg, #0d0d2b, #7B2FBE); border-radius: 8px; padding: 16px 20px;">
+```
+> I write Java. I build APIs. I optimize queries. I ship working software.
+> Currently diving deep into microservices, DSA and system design.
 ```
 
-<br>
+</div>
 
+<br>
 <div style="display: flex; flex-wrap: wrap; gap: 6px;">
 
 <a href="https://yashbakliwal-portfolio.vercel.app/" target="_blank">
