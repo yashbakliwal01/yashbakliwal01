@@ -32,11 +32,14 @@ Eat. Sleep. Java. Optimize. Repeat 🔁
 
 ---
 
-### 🔭 What I'm Currently Learning
+## 🚀 What I'm Currently Building Towards
 
-- 📚 Learning **Data Structures & Algorithms**  
-- 🏗️ Improving my **System Design** fundamentals  
-- 🌱 Enhancing my **Spring Boot** backend development skills  
+| Area | What I'm Doing |
+|------|---------------|
+| 📚 DSA | Solving problems daily to strengthen problem-solving |
+| 🏗️ System Design | Learning how to architect large-scale backend systems |
+| 🌱 Microservices | Learning microservice architecture with Spring Boot — service decomposition, REST & event-driven communication via Kafka, API Gateway, and service discovery using Eureka |
+|☁️ Cloud & DevOps | Exploring Docker, CI/CD pipelines, and AWS basics | 
 
 
 ## 🛠️ Languages & Tools  
@@ -83,9 +86,12 @@ Eat. Sleep. Java. Optimize. Repeat 🔁
 
 `git log --oneline`
 ```
-* building   DSA & System Design skills daily
-* learning   Spring Boot microservices architecture  
-* exploring  Docker, CI/CD pipelines, and cloud deployments
+* building   REST APIs with Spring Boot — clean, documented, versioned
+* learning   microservices patterns and distributed system design
+* exploring  Docker, CI/CD pipelines and AWS cloud deployments
+* practising DSA
 ```
+
+---
 
 ![profile views](https://komarev.com/ghpvc/?username=yashbakliwal01&label=profile+views&color=8A2BE2&style=flat)
