@@ -1,36 +1,24 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,100:6A0DAD&height=200&section=header&text=Yash%20Bakliwal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Developer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20DSA%20Enthusiast&descAlignY=58&descSize=16)
-
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,100:7B2FBE&height=200&section=header&text=Yash%20Bakliwal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20%E2%80%A2%20API%20Builder%20%E2%80%A2%20System%20Thinker&descAlignY=58&descSize=16)
 
 <br>
-
-<div style="background: linear-gradient(90deg, #0d0d2b, #7B2FBE); border-radius: 8px; padding: 16px 20px;">
 ```
-> I write Java. I build APIs. I optimize queries. I ship working software.
-> Currently diving deep into microservices, DSA and system design.
+> I build backend systems with Java & Spring Boot — clean code, solid APIs, real databases.
+> Learning DSA and system design to write code that scales, not just code that runs.
 ```
-
-</div>
 
 <br>
-<div style="display: flex; flex-wrap: wrap; gap: 6px;">
 
 <a href="https://yashbakliwal-portfolio.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-8A2BE2.svg?style=for-the-badge&logoColor=white"/>
 </a>
-
 <a href="mailto:yashbakliwal01@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D44638.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/yash-bakliwal-1008" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<!-- <a href="https://github.com/yashbakliwal01" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-24292F.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</a> -->
 
 </div>
 
