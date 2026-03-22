@@ -9,6 +9,8 @@
 ```
 
 <br>
+</div>
+
 
 <a href="https://yashbakliwal-portfolio.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-8A2BE2.svg?style=for-the-badge&logoColor=white"/>
@@ -20,7 +22,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
+
 
 **✨ I am a passionate Java Developer ✨**
 
