@@ -1,3 +1,9 @@
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Yash%20Bakliwal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Developer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20DSA%20Enthusiast&descAlignY=58&descSize=16)
+
+</div>
+
 # Hi there, I'm Yash! 👋  
 
 <div style="display: flex; flex-wrap: wrap; gap: 6px;">
@@ -72,3 +78,14 @@ Eat. Sleep. Java. Optimize. Repeat 🔁
   <img src="https://img.shields.io/badge/Spring%20Tool%20Suite-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
 
 </div>
+
+---
+
+`git log --oneline`
+```
+* building   DSA & System Design skills daily
+* learning   Spring Boot microservices architecture  
+* exploring  Docker, CI/CD pipelines, and cloud deployments
+```
+
+![profile views](https://komarev.com/ghpvc/?username=yashbakliwal01&label=profile+views&color=8A2BE2&style=flat)
