@@ -29,9 +29,6 @@
 </a>
 
 
-
-**✨ I am a passionate Java Developer ✨**
-
 Welcome to my GitHub space —    
 Eat. Sleep. Java. Optimize. Repeat 🔁
 
