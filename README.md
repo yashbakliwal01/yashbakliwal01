@@ -1,10 +1,10 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,100:7B2FBE&height=200&section=header&text=Yash%20Bakliwal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20%E2%80%A2%20API%20Builder%20%E2%80%A2%20System%20Thinker&descAlignY=58&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,100:7B2FBE&height=200&section=header&text=Yash%20Bakliwal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20REST%20APIs%20%E2%80%A2%20System%20Design&descAlignY=58&descSize=14)
 
 <br>
 ```
-> I build backend systems with Java & Spring Boot — clean code, solid APIs, real databases.
+> I build backend systems with Java & Spring Boot — clean code, solid APIs, real databases.<br>
 > Learning DSA and system design to write code that scales, not just code that runs.
 ```
 
