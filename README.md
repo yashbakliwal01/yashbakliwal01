@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a40,100:8A2BE2&height=200&section=header&text=Yash%20Bakliwal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20•%20Spring%20Boot%20•%20REST%20APIs%20•%20System%20Design&descAlignY=58&descSize=14" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,100:7B2FBE&height=200&section=header&text=Yash%20Bakliwal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20•%20Spring%20Boot%20•%20REST%20APIs%20•%20System%20Design&descAlignY=58&descSize=14" /></div><div style="background: linear-gradient(90deg, #0d0d2b, #7B2FBE); border-radius: 10px; padding: 18px 22px; color: #ffffff; font-family: monospace;">
 
 ▌ I build scalable backend systems using Java, Spring Boot, and Microservices.<br>
 ▌ Focused on clean APIs, efficient code, and improving problem-solving with DSA & system design.
