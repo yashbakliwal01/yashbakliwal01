@@ -6,7 +6,7 @@
 </div>
 
 <a href="https://yashbakliwal-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-8A2BE2.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-8A2BE2.svg?style=for-the-badge&logo=internet-explorer&logoColor=white"/>
 </a>
 
 <a href="mailto:yashbakliwal01@gmail.com">
