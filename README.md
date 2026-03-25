@@ -5,15 +5,16 @@
 ▌ Focused on clean APIs, efficient code, and improving problem-solving with DSA & system design.
 </div>
 
-
 <a href="https://yashbakliwal-portfolio.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-8A2BE2.svg?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-8A2BE2.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
+
 <a href="mailto:yashbakliwal01@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D44638.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D44638.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/yash-bakliwal-1008" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 
