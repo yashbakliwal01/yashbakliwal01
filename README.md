@@ -1,15 +1,9 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,100:7B2FBE&height=200&section=header&text=Yash%20Bakliwal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20•%20Spring%20Boot%20•%20REST%20APIs%20•%20System%20Design&descAlignY=58&descSize=14" />
-
-<div style="margin-top: 16px; max-width: 760px; text-align: center;">
-  <h1 style="margin: 0; font-size: 2.2em; color: #ffffff;">Hi, I’m Yash Bakliwal</h1>
-  <p style="margin: 12px auto 0; color: #d8d8ff; font-size: 1rem; max-width: 680px; line-height: 1.6;">Java Backend Developer building scalable Spring Boot APIs and cloud-friendly systems with a strong focus on design, performance, and clean code.</p>
 </div>
 
-</div>
-
-<div align="center" style="background: linear-gradient(90deg, #0d0d2b, #7B2FBE); border-radius: 12px; padding: 20px; color: #ffffff; font-family: monospace; margin-top: 20px;">
+<div align="center" style="background: linear-gradient(90deg, #0d0d2b, #7B2FBE); border-radius: 12px; padding: 20px; color: #ffffff; font-family: monospace; margin-top: 16px;">
 
 ▌ I build scalable backend systems using Java, Spring Boot, and microservice patterns.<br>
 ▌ Focused on clean APIs, robust architecture, and improving problem-solving through DSA & system design.
